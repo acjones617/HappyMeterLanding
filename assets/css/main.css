@@ -30,13 +30,13 @@ h1 {
 }
 
 h3 {
-	color: #95a5a6;
-	font-weight: 400;
+	color: #080033;
+	font-weight: 500;
 }
 
 h4 {
-	color: #95a5a6;
-	font-weight: 400;
+	color: #080033;
+	font-weight: 500;
 	font-size: 20px;
 }
 
@@ -148,7 +148,7 @@ i {
 	margin-bottom: 15px;
 	color: white;
 	font-size: 45px;
-	font-weight: 300;
+	font-weight: 350;
 	letter-spacing: 1px;
 }
 
@@ -201,4 +201,9 @@ i {
   height: 12px;
   margin: 0;
   background-color: black;
+}
+
+p {
+  font-weight: 350;
+  color: #080033;
 }
