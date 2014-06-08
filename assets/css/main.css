@@ -207,3 +207,7 @@ p {
   font-weight: 350;
   color: #080033;
 }
+
+.glyphicon {
+  font-size: 20px;
+}

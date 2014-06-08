@@ -4,5 +4,3 @@ $('body').append(
 src="http://i.imgur.com/x86kKmF.png" \
 alt="Built at Hack Reactor"> \
 </a>');
-
-console.log('an');
